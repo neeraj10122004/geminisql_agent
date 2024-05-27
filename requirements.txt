@@ -49,8 +49,6 @@ pure-eval
 pydantic
 pydantic_core
 Pygments
-python-dateutil
-pywin32
 PyYAML
 pyzmq
 regex
